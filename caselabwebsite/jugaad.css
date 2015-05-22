@@ -10,6 +10,19 @@
 .tt{
 	color: #fff;
 }
-.pad{
-	padding: 20px;
+.pad
+{	padding: 20px;
+}
+.download-app {
+	background-color: #AED9E0;
+}
+.padn{
+	padding-top: 25%;
+}
+hr{
+	border: 2px solid white;
+}
+.info {
+	background: #ffa753 url(images/skyline.png) repeat-x;
+	padding: 7% 0;
 }
