@@ -52,3 +52,19 @@ hr{
 	color: #ff5;
 	text-decoration: none;
 }
+.unknown{
+	background-color: white;
+	padding-bottom: 40%;
+}
+.featured h2{
+	color: brown;
+}
+.featured hr{
+	border-color: brown;
+}
+.stars{
+	padding-left: 50px;
+}
+.featured p{
+	padding-left: 45px;
+}
