@@ -15,14 +15,40 @@
 }
 .download-app {
 	background-color: #AED9E0;
+	padding: 1% 0;
 }
 .padn{
-	padding-top: 25%;
+	padding-top: 15%;
 }
 hr{
 	border: 2px solid white;
 }
 .info {
-	background: #ffa753 url(images/skyline.png) repeat-x;
+	background: #ffa753 url(images/skyline.png) repeat-x bottom;
 	padding: 7% 0;
+	margin-top: 
+}
+.info small{
+	color: white;
+}
+.tab-pane {
+	padding: 3% 1% 0 0;
+}
+.info a{
+	color: #fff;
+}
+.padd{
+	padding: 20% 3% 0 0;
+}
+.foot{
+	background: url(images/s.png) repeat;
+	padding: 30px 0 0 40px;
+	color: #fff;
+}
+.foot a{
+	color: #fff;
+}
+.foot a:hover{
+	color: #ff5;
+	text-decoration: none;
 }
