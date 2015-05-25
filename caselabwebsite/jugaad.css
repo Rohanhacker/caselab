@@ -68,3 +68,16 @@ hr{
 .featured p{
 	padding-left: 45px;
 }
+.cc{
+	padding-left: 35px;
+}
+.featured{
+	border-color: #F5F4F0;
+	padding: 5% 0 10% 0;
+}
+.blog hr{
+	border: 2px solid orange;
+}
+.blog a:hover{
+	text-decoration: none;
+}
