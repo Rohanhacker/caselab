@@ -13,6 +13,9 @@
 .pad
 {	padding: 20px;
 }
+.tpad
+{	padding: 10px;
+}
 .download-app {
 	background-color: #AED9E0;
 	padding: 1% 0;
@@ -80,4 +83,57 @@ hr{
 }
 .blog a:hover{
 	text-decoration: none;
+}
+
+
+.slidebar{
+	background-color: #E9EAED;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+.im{
+	   border:1px solid #021a40;
+}
+.home{
+	position: relative;
+}
+/*
+.home h2{
+	position: absolute; 
+	top: 80px;
+	color: white;
+}
+*/
+.over{
+	position: absolute;
+	top: 80px;
+	left: 40px;
+	height: 400px;
+	width: 500px;
+	background-color: rgba(44,22,12,0.2);
+	border-radius: 30px;
+}
+.over h2{
+	text-align: center;
+	color: white;
+}
+.home p{
+	color: white;
+	text-align: center;
+
+}
+.inpu{
+	margin: 0 auto;
+width: 280px;
+}
+.inp2{
+	width: 10px;
+	padding-left: 25px;
+}
+.over hr{
+	max-width: 80%;
+	border-width: 1px;
+}
+select{
+	margin-left: 38%;
 }
